@@ -11,13 +11,13 @@ void run()
             cout<<"You lose! You got "<<score<<"point."<<endl;
             cout<<"You have made "<<movenum<<" moves."<<endl;
 			system("pause");
-			return;
+			break;
 		}
 		if(Max_s == 2048)
 		{
 			cout<<"You win!";
 			system("pause");
-			return;
+			break;
 		}
 		paint();
 		test();
