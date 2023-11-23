@@ -1,6 +1,12 @@
 [
 {
   "directory": "G:/CODE/2048/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -o CMakeFiles\\2048.dir\\src\\2048.cpp.obj -c G:\\CODE\\2048\\src\\2048.cpp",
+  "file": "G:/CODE/2048/src/2048.cpp",
+  "output": "CMakeFiles/2048.dir/src/2048.cpp.obj"
+},
+{
+  "directory": "G:/CODE/2048/build",
   "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -o CMakeFiles\\2048.dir\\src\\FreeMap.cpp.obj -c G:\\CODE\\2048\\src\\FreeMap.cpp",
   "file": "G:/CODE/2048/src/FreeMap.cpp",
   "output": "CMakeFiles/2048.dir/src/FreeMap.cpp.obj"

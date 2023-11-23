@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/2048.dir/src/2048.cpp.obj"
+  "CMakeFiles/2048.dir/src/2048.cpp.obj.d"
   "CMakeFiles/2048.dir/src/FreeMap.cpp.obj"
   "CMakeFiles/2048.dir/src/FreeMap.cpp.obj.d"
   "CMakeFiles/2048.dir/src/Generated.cpp.obj"

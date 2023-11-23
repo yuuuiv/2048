@@ -68,11 +68,26 @@ include CMakeFiles/2048.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/2048.dir/flags.make
 
+CMakeFiles/2048.dir/src/2048.cpp.obj: CMakeFiles/2048.dir/flags.make
+CMakeFiles/2048.dir/src/2048.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
+CMakeFiles/2048.dir/src/2048.cpp.obj: G:/CODE/2048/src/2048.cpp
+CMakeFiles/2048.dir/src/2048.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2048.dir/src/2048.cpp.obj"
+	E:\MSYS2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/src/2048.cpp.obj -MF CMakeFiles\2048.dir\src\2048.cpp.obj.d -o CMakeFiles\2048.dir\src\2048.cpp.obj -c G:\CODE\2048\src\2048.cpp
+
+CMakeFiles/2048.dir/src/2048.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/2048.dir/src/2048.cpp.i"
+	E:\MSYS2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\CODE\2048\src\2048.cpp > CMakeFiles\2048.dir\src\2048.cpp.i
+
+CMakeFiles/2048.dir/src/2048.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/2048.dir/src/2048.cpp.s"
+	E:\MSYS2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\CODE\2048\src\2048.cpp -o CMakeFiles\2048.dir\src\2048.cpp.s
+
 CMakeFiles/2048.dir/src/FreeMap.cpp.obj: CMakeFiles/2048.dir/flags.make
 CMakeFiles/2048.dir/src/FreeMap.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
 CMakeFiles/2048.dir/src/FreeMap.cpp.obj: G:/CODE/2048/src/FreeMap.cpp
 CMakeFiles/2048.dir/src/FreeMap.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2048.dir/src/FreeMap.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/2048.dir/src/FreeMap.cpp.obj"
 	E:\MSYS2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/src/FreeMap.cpp.obj -MF CMakeFiles\2048.dir\src\FreeMap.cpp.obj.d -o CMakeFiles\2048.dir\src\FreeMap.cpp.obj -c G:\CODE\2048\src\FreeMap.cpp
 
 CMakeFiles/2048.dir/src/FreeMap.cpp.i: cmake_force
@@ -87,7 +102,7 @@ CMakeFiles/2048.dir/src/Generated.cpp.obj: CMakeFiles/2048.dir/flags.make
 CMakeFiles/2048.dir/src/Generated.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
 CMakeFiles/2048.dir/src/Generated.cpp.obj: G:/CODE/2048/src/Generated.cpp
 CMakeFiles/2048.dir/src/Generated.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/2048.dir/src/Generated.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/2048.dir/src/Generated.cpp.obj"
 	E:\MSYS2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/src/Generated.cpp.obj -MF CMakeFiles\2048.dir\src\Generated.cpp.obj.d -o CMakeFiles\2048.dir\src\Generated.cpp.obj -c G:\CODE\2048\src\Generated.cpp
 
 CMakeFiles/2048.dir/src/Generated.cpp.i: cmake_force
@@ -102,7 +117,7 @@ CMakeFiles/2048.dir/src/Hide.cpp.obj: CMakeFiles/2048.dir/flags.make
 CMakeFiles/2048.dir/src/Hide.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
 CMakeFiles/2048.dir/src/Hide.cpp.obj: G:/CODE/2048/src/Hide.cpp
 CMakeFiles/2048.dir/src/Hide.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/2048.dir/src/Hide.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/2048.dir/src/Hide.cpp.obj"
 	E:\MSYS2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/src/Hide.cpp.obj -MF CMakeFiles\2048.dir\src\Hide.cpp.obj.d -o CMakeFiles\2048.dir\src\Hide.cpp.obj -c G:\CODE\2048\src\Hide.cpp
 
 CMakeFiles/2048.dir/src/Hide.cpp.i: cmake_force
@@ -117,7 +132,7 @@ CMakeFiles/2048.dir/src/Initializing.cpp.obj: CMakeFiles/2048.dir/flags.make
 CMakeFiles/2048.dir/src/Initializing.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
 CMakeFiles/2048.dir/src/Initializing.cpp.obj: G:/CODE/2048/src/Initializing.cpp
 CMakeFiles/2048.dir/src/Initializing.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/2048.dir/src/Initializing.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/2048.dir/src/Initializing.cpp.obj"
 	E:\MSYS2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/src/Initializing.cpp.obj -MF CMakeFiles\2048.dir\src\Initializing.cpp.obj.d -o CMakeFiles\2048.dir\src\Initializing.cpp.obj -c G:\CODE\2048\src\Initializing.cpp
 
 CMakeFiles/2048.dir/src/Initializing.cpp.i: cmake_force
@@ -132,7 +147,7 @@ CMakeFiles/2048.dir/src/Move.cpp.obj: CMakeFiles/2048.dir/flags.make
 CMakeFiles/2048.dir/src/Move.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
 CMakeFiles/2048.dir/src/Move.cpp.obj: G:/CODE/2048/src/Move.cpp
 CMakeFiles/2048.dir/src/Move.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/2048.dir/src/Move.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/2048.dir/src/Move.cpp.obj"
 	E:\MSYS2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/src/Move.cpp.obj -MF CMakeFiles\2048.dir\src\Move.cpp.obj.d -o CMakeFiles\2048.dir\src\Move.cpp.obj -c G:\CODE\2048\src\Move.cpp
 
 CMakeFiles/2048.dir/src/Move.cpp.i: cmake_force
@@ -147,7 +162,7 @@ CMakeFiles/2048.dir/src/Over.cpp.obj: CMakeFiles/2048.dir/flags.make
 CMakeFiles/2048.dir/src/Over.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
 CMakeFiles/2048.dir/src/Over.cpp.obj: G:/CODE/2048/src/Over.cpp
 CMakeFiles/2048.dir/src/Over.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/2048.dir/src/Over.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/2048.dir/src/Over.cpp.obj"
 	E:\MSYS2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/src/Over.cpp.obj -MF CMakeFiles\2048.dir\src\Over.cpp.obj.d -o CMakeFiles\2048.dir\src\Over.cpp.obj -c G:\CODE\2048\src\Over.cpp
 
 CMakeFiles/2048.dir/src/Over.cpp.i: cmake_force
@@ -162,7 +177,7 @@ CMakeFiles/2048.dir/src/Paint.cpp.obj: CMakeFiles/2048.dir/flags.make
 CMakeFiles/2048.dir/src/Paint.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
 CMakeFiles/2048.dir/src/Paint.cpp.obj: G:/CODE/2048/src/Paint.cpp
 CMakeFiles/2048.dir/src/Paint.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/2048.dir/src/Paint.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/2048.dir/src/Paint.cpp.obj"
 	E:\MSYS2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/src/Paint.cpp.obj -MF CMakeFiles\2048.dir\src\Paint.cpp.obj.d -o CMakeFiles\2048.dir\src\Paint.cpp.obj -c G:\CODE\2048\src\Paint.cpp
 
 CMakeFiles/2048.dir/src/Paint.cpp.i: cmake_force
@@ -177,7 +192,7 @@ CMakeFiles/2048.dir/src/Run.cpp.obj: CMakeFiles/2048.dir/flags.make
 CMakeFiles/2048.dir/src/Run.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
 CMakeFiles/2048.dir/src/Run.cpp.obj: G:/CODE/2048/src/Run.cpp
 CMakeFiles/2048.dir/src/Run.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/2048.dir/src/Run.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/2048.dir/src/Run.cpp.obj"
 	E:\MSYS2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/src/Run.cpp.obj -MF CMakeFiles\2048.dir\src\Run.cpp.obj.d -o CMakeFiles\2048.dir\src\Run.cpp.obj -c G:\CODE\2048\src\Run.cpp
 
 CMakeFiles/2048.dir/src/Run.cpp.i: cmake_force
@@ -192,7 +207,7 @@ CMakeFiles/2048.dir/src/Test.cpp.obj: CMakeFiles/2048.dir/flags.make
 CMakeFiles/2048.dir/src/Test.cpp.obj: CMakeFiles/2048.dir/includes_CXX.rsp
 CMakeFiles/2048.dir/src/Test.cpp.obj: G:/CODE/2048/src/Test.cpp
 CMakeFiles/2048.dir/src/Test.cpp.obj: CMakeFiles/2048.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/2048.dir/src/Test.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/2048.dir/src/Test.cpp.obj"
 	E:\MSYS2\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2048.dir/src/Test.cpp.obj -MF CMakeFiles\2048.dir\src\Test.cpp.obj.d -o CMakeFiles\2048.dir\src\Test.cpp.obj -c G:\CODE\2048\src\Test.cpp
 
 CMakeFiles/2048.dir/src/Test.cpp.i: cmake_force
@@ -205,6 +220,7 @@ CMakeFiles/2048.dir/src/Test.cpp.s: cmake_force
 
 # Object files for target 2048
 2048_OBJECTS = \
+"CMakeFiles/2048.dir/src/2048.cpp.obj" \
 "CMakeFiles/2048.dir/src/FreeMap.cpp.obj" \
 "CMakeFiles/2048.dir/src/Generated.cpp.obj" \
 "CMakeFiles/2048.dir/src/Hide.cpp.obj" \
@@ -218,6 +234,7 @@ CMakeFiles/2048.dir/src/Test.cpp.s: cmake_force
 # External object files for target 2048
 2048_EXTERNAL_OBJECTS =
 
+lib2048.a: CMakeFiles/2048.dir/src/2048.cpp.obj
 lib2048.a: CMakeFiles/2048.dir/src/FreeMap.cpp.obj
 lib2048.a: CMakeFiles/2048.dir/src/Generated.cpp.obj
 lib2048.a: CMakeFiles/2048.dir/src/Hide.cpp.obj
@@ -229,7 +246,7 @@ lib2048.a: CMakeFiles/2048.dir/src/Run.cpp.obj
 lib2048.a: CMakeFiles/2048.dir/src/Test.cpp.obj
 lib2048.a: CMakeFiles/2048.dir/build.make
 lib2048.a: CMakeFiles/2048.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX static library lib2048.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=G:\CODE\2048\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX static library lib2048.a"
 	$(CMAKE_COMMAND) -P CMakeFiles\2048.dir\cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\2048.dir\link.txt --verbose=$(VERBOSE)
 

@@ -165,6 +165,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2048Game.dir\build.make CMakeFiles/2048Game.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/2048.obj: src/2048.cpp.obj
+.PHONY : src/2048.obj
+
+# target to build an object file
+src/2048.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2048.dir\build.make CMakeFiles/2048.dir/src/2048.cpp.obj
+.PHONY : src/2048.cpp.obj
+
+src/2048.i: src/2048.cpp.i
+.PHONY : src/2048.i
+
+# target to preprocess a source file
+src/2048.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2048.dir\build.make CMakeFiles/2048.dir/src/2048.cpp.i
+.PHONY : src/2048.cpp.i
+
+src/2048.s: src/2048.cpp.s
+.PHONY : src/2048.s
+
+# target to generate assembly for a file
+src/2048.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2048.dir\build.make CMakeFiles/2048.dir/src/2048.cpp.s
+.PHONY : src/2048.cpp.s
+
 src/FreeMap.obj: src/FreeMap.cpp.obj
 .PHONY : src/FreeMap.obj
 
@@ -394,6 +418,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... src/2048.obj
+	@echo ... src/2048.i
+	@echo ... src/2048.s
 	@echo ... src/FreeMap.obj
 	@echo ... src/FreeMap.i
 	@echo ... src/FreeMap.s
