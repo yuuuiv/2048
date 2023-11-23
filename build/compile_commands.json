@@ -1,0 +1,62 @@
+[
+{
+  "directory": "G:/CODE/2048/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -o CMakeFiles\\2048.dir\\src\\FreeMap.cpp.obj -c G:\\CODE\\2048\\src\\FreeMap.cpp",
+  "file": "G:/CODE/2048/src/FreeMap.cpp",
+  "output": "CMakeFiles/2048.dir/src/FreeMap.cpp.obj"
+},
+{
+  "directory": "G:/CODE/2048/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -o CMakeFiles\\2048.dir\\src\\Generated.cpp.obj -c G:\\CODE\\2048\\src\\Generated.cpp",
+  "file": "G:/CODE/2048/src/Generated.cpp",
+  "output": "CMakeFiles/2048.dir/src/Generated.cpp.obj"
+},
+{
+  "directory": "G:/CODE/2048/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -o CMakeFiles\\2048.dir\\src\\Hide.cpp.obj -c G:\\CODE\\2048\\src\\Hide.cpp",
+  "file": "G:/CODE/2048/src/Hide.cpp",
+  "output": "CMakeFiles/2048.dir/src/Hide.cpp.obj"
+},
+{
+  "directory": "G:/CODE/2048/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -o CMakeFiles\\2048.dir\\src\\Initializing.cpp.obj -c G:\\CODE\\2048\\src\\Initializing.cpp",
+  "file": "G:/CODE/2048/src/Initializing.cpp",
+  "output": "CMakeFiles/2048.dir/src/Initializing.cpp.obj"
+},
+{
+  "directory": "G:/CODE/2048/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -o CMakeFiles\\2048.dir\\src\\Move.cpp.obj -c G:\\CODE\\2048\\src\\Move.cpp",
+  "file": "G:/CODE/2048/src/Move.cpp",
+  "output": "CMakeFiles/2048.dir/src/Move.cpp.obj"
+},
+{
+  "directory": "G:/CODE/2048/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -o CMakeFiles\\2048.dir\\src\\Over.cpp.obj -c G:\\CODE\\2048\\src\\Over.cpp",
+  "file": "G:/CODE/2048/src/Over.cpp",
+  "output": "CMakeFiles/2048.dir/src/Over.cpp.obj"
+},
+{
+  "directory": "G:/CODE/2048/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -o CMakeFiles\\2048.dir\\src\\Paint.cpp.obj -c G:\\CODE\\2048\\src\\Paint.cpp",
+  "file": "G:/CODE/2048/src/Paint.cpp",
+  "output": "CMakeFiles/2048.dir/src/Paint.cpp.obj"
+},
+{
+  "directory": "G:/CODE/2048/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -o CMakeFiles\\2048.dir\\src\\Run.cpp.obj -c G:\\CODE\\2048\\src\\Run.cpp",
+  "file": "G:/CODE/2048/src/Run.cpp",
+  "output": "CMakeFiles/2048.dir/src/Run.cpp.obj"
+},
+{
+  "directory": "G:/CODE/2048/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/2048.dir/includes_CXX.rsp -g -o CMakeFiles\\2048.dir\\src\\Test.cpp.obj -c G:\\CODE\\2048\\src\\Test.cpp",
+  "file": "G:/CODE/2048/src/Test.cpp",
+  "output": "CMakeFiles/2048.dir/src/Test.cpp.obj"
+},
+{
+  "directory": "G:/CODE/2048/build",
+  "command": "E:\\MSYS2\\mingw64\\bin\\g++.exe  @CMakeFiles/2048Game.dir/includes_CXX.rsp -g -o CMakeFiles\\2048Game.dir\\main.cpp.obj -c G:\\CODE\\2048\\main.cpp",
+  "file": "G:/CODE/2048/main.cpp",
+  "output": "CMakeFiles/2048Game.dir/main.cpp.obj"
+}
+]

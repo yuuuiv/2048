@@ -1,0 +1,2 @@
+E:\MSYS2\mingw64\bin\ar.exe qc lib2048.a CMakeFiles/2048.dir/src/FreeMap.cpp.obj CMakeFiles/2048.dir/src/Generated.cpp.obj CMakeFiles/2048.dir/src/Hide.cpp.obj CMakeFiles/2048.dir/src/Initializing.cpp.obj CMakeFiles/2048.dir/src/Move.cpp.obj CMakeFiles/2048.dir/src/Over.cpp.obj CMakeFiles/2048.dir/src/Paint.cpp.obj CMakeFiles/2048.dir/src/Run.cpp.obj CMakeFiles/2048.dir/src/Test.cpp.obj
+E:\MSYS2\mingw64\bin\ranlib.exe lib2048.a

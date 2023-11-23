@@ -1,0 +1,4 @@
+G:/CODE/2048/build/CMakeFiles/2048.dir
+G:/CODE/2048/build/CMakeFiles/2048Game.dir
+G:/CODE/2048/build/CMakeFiles/edit_cache.dir
+G:/CODE/2048/build/CMakeFiles/rebuild_cache.dir
