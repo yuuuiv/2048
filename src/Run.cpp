@@ -13,7 +13,7 @@ void run()
     {
         if(sum_s == N*N && Over())
         {
-            std::cout<<"You lose! You got "<<score<<"point."<<std::endl;
+            std::cout<<"You lose! You got "<<score<<" point."<<std::endl;
             std::cout<<"You have made "<<movenum<<" moves."<<std::endl;
             system("pause");
             break;

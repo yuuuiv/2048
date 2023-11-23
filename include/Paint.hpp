@@ -8,6 +8,7 @@ extern int **Map;
 extern std::string title; 
 extern int score; 
 extern int N; 
+extern int Max_s; 
 
 void Paint(); 
 

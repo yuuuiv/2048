@@ -8,6 +8,7 @@ void Paint()
 	for(int i=1;i<=s/2;++i) std::cout<<' ';
 	std::cout<<std::endl;
 	std::cout<<"score: "<<score<<std::endl;
+	std::cout<<"Max_s: "<<Max_s<<std::endl;
 	std::cout<<"  ";
 	for(int i=1;i<=N*5+1;++i) std::cout<<'-';
 	std::cout<<std::endl;
