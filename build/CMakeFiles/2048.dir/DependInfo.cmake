@@ -8,7 +8,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "G:/CODE/2048/src/2048.cpp" "CMakeFiles/2048.dir/src/2048.cpp.obj" "gcc" "CMakeFiles/2048.dir/src/2048.cpp.obj.d"
   "G:/CODE/2048/src/FreeMap.cpp" "CMakeFiles/2048.dir/src/FreeMap.cpp.obj" "gcc" "CMakeFiles/2048.dir/src/FreeMap.cpp.obj.d"
   "G:/CODE/2048/src/Generated.cpp" "CMakeFiles/2048.dir/src/Generated.cpp.obj" "gcc" "CMakeFiles/2048.dir/src/Generated.cpp.obj.d"
   "G:/CODE/2048/src/Hide.cpp" "CMakeFiles/2048.dir/src/Hide.cpp.obj" "gcc" "CMakeFiles/2048.dir/src/Hide.cpp.obj.d"
