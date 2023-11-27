@@ -1,4 +1,4 @@
-CMakeFiles/2048Game.dir/main.cpp.obj: G:\CODE\2048\main.cpp \
+CMakeFiles/2048Game.dir/main.cpp.obj: G:/CODE/2048/main.cpp \
  G:/CODE/2048/include/Initializing.hpp \
  E:/MSYS2/mingw64/include/c++/13.1.0/string \
  E:/MSYS2/mingw64/include/c++/13.1.0/bits/requires_hosted.h \

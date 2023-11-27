@@ -1,5 +1,5 @@
 CMakeFiles/2048.dir/src/Initializing.cpp.obj: \
- G:\CODE\2048\src\Initializing.cpp G:/CODE/2048/include/Initializing.hpp \
+ G:/CODE/2048/src/Initializing.cpp G:/CODE/2048/include/Initializing.hpp \
  E:/MSYS2/mingw64/include/c++/13.1.0/string \
  E:/MSYS2/mingw64/include/c++/13.1.0/bits/requires_hosted.h \
  E:/MSYS2/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++config.h \

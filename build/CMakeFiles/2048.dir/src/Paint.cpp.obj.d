@@ -1,4 +1,4 @@
-CMakeFiles/2048.dir/src/Paint.cpp.obj: G:\CODE\2048\src\Paint.cpp \
+CMakeFiles/2048.dir/src/Paint.cpp.obj: G:/CODE/2048/src/Paint.cpp \
  G:/CODE/2048/include/Paint.hpp \
  E:/MSYS2/mingw64/include/c++/13.1.0/string \
  E:/MSYS2/mingw64/include/c++/13.1.0/bits/requires_hosted.h \

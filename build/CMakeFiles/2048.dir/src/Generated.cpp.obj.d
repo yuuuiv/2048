@@ -1,4 +1,4 @@
-CMakeFiles/2048.dir/src/Generated.cpp.obj: G:\CODE\2048\src\Generated.cpp \
+CMakeFiles/2048.dir/src/Generated.cpp.obj: G:/CODE/2048/src/Generated.cpp \
  G:/CODE/2048/include/Generated.hpp \
  E:/MSYS2/mingw64/include/c++/13.1.0/ctime \
  E:/MSYS2/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++config.h \

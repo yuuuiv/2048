@@ -1,4 +1,4 @@
-CMakeFiles/2048.dir/src/Hide.cpp.obj: G:\CODE\2048\src\Hide.cpp \
+CMakeFiles/2048.dir/src/Hide.cpp.obj: G:/CODE/2048/src/Hide.cpp \
  G:/CODE/2048/include/Hide.hpp E:/MSYS2/mingw64/include/windows.h \
  E:/MSYS2/mingw64/include/_mingw.h E:/MSYS2/mingw64/include/_mingw_mac.h \
  E:/MSYS2/mingw64/include/_mingw_secapi.h \

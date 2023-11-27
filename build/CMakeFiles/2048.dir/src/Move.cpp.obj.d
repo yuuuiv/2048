@@ -1,4 +1,4 @@
-CMakeFiles/2048.dir/src/Move.cpp.obj: G:\CODE\2048\src\Move.cpp \
+CMakeFiles/2048.dir/src/Move.cpp.obj: G:/CODE/2048/src/Move.cpp \
  G:/CODE/2048/include/Move.hpp \
  E:/MSYS2/mingw64/include/c++/13.1.0/algorithm \
  E:/MSYS2/mingw64/include/c++/13.1.0/bits/stl_algobase.h \

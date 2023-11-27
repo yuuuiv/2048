@@ -1,4 +1,4 @@
-CMakeFiles/2048.dir/src/Test.cpp.obj: G:\CODE\2048\src\Test.cpp \
+CMakeFiles/2048.dir/src/Test.cpp.obj: G:/CODE/2048/src/Test.cpp \
  G:/CODE/2048/include/Test.hpp E:/MSYS2/mingw64/include/conio.h \
  E:/MSYS2/mingw64/include/crtdefs.h E:/MSYS2/mingw64/include/corecrt.h \
  E:/MSYS2/mingw64/include/_mingw.h E:/MSYS2/mingw64/include/_mingw_mac.h \
